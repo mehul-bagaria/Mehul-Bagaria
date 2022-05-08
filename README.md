@@ -5,7 +5,7 @@
  
  🔭 I’m currently working on **Topology Optimization** & **Metamaterials**
  
- 📫 How to reach me **mehulbagaria12@gmail.com**
+ 📫 How to reach me **iitr.mehul@gmail.com**
 
  ⚡ Fun fact **Bananas are radioactive**
  
