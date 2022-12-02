@@ -7,7 +7,7 @@
  
  📫 How to reach me **iitr.mehul@gmail.com**
 
- ⚡ Fun fact **Bananas are radioactive**
+ ⚡ Fun fact **You can’t sink in the Dead Sea**
  
  
 <h3 align="left">Connect with me:</h3>
