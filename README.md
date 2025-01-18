@@ -1,14 +1,11 @@
  <h1 align="center">Hi 👋, I'm Mehul Bagaria</h1>
 <h3 align="center">A passionate Mechanical Engineering graduate with a specialization in Nanotechnology.</h3>
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehul-bagaria&label=Profile%20views&color=0e75b6&style=flat" alt="mehul-bagaria" /> </p>
  
  🔭 I’m currently working on **Topology Optimization** & **Metamaterials**
  
  📫 How to reach me **iitr.mehul@gmail.com**
 
- ⚡ Fun fact "**You can’t sink in the Dead Sea**"
- 
  
 <h3 align="left">Connect with me:</h3>
 
